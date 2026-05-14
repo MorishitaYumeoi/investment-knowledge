@@ -7,6 +7,7 @@
 1-2 芯片：$Cerebras 光通信(CPO) $COPX(铜)  
 1-3 核聚变：$OKLO $SMR  
 1-4 脑机：$NeuralLink  
+1-5 AI医疗：$Isomorphic(谷歌)  
 
 ### 2 火箭：$RKLB $BlueOrigin  
 
