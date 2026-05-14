@@ -5,7 +5,7 @@
 ### 1 AI 人工智能  
 1-1 大模型：$Anthropic $OpenAI $Google $DeepSeek  
 1-2 芯片：$Cerebras $COPX(铜)  
-1-3 光模块(CPO预期)：$COHR $LITE  *******
+1-3 光模块(CPO预期)：$COHR $LITE  *******  
 1-4 核聚变：$OKLO $SMR   
 1-5 医疗：$Isomorphic(谷歌)  
 1-6 脑机接口：$NeuralLink 
