@@ -17,15 +17,27 @@
 ### 4 加密：$Circle $Coinbase $Polymarket $Klashi $Base   
 
 ## 推特美股博主  
-@VoxVex000
-@JasonZX
-@bboczeng
-@Money_or_Life_X
-@qinbafrank
-@Valley101_Qian
-@LinQingV
-@zhang_benita
-@AlchainHust
-@dotey
-@FuSheng_0306
-@rickawsb
+@SpaceX  
+@AnthropicAI @Claudeai @DarioAmodei  
+@OpenAI  
+@NeuraLink  
+@IsomorphicLabs  
+
+@tradexyz 合规pre-perps市场✅  
+@ventuals 三只pre-perps市场✅  
+
+@zhang_benita  张小珺✅  
+@Valley101_Qian  硅谷101陈茜✅  
+
+@VoxVex000  VoxVex❄️🪽🥾✅  
+@JasonZX  Jason Z✅  
+@bboczeng  勃勃OC✅  
+@Money_or_Life_X  Ace from Money or Life 美股频道✅  
+
+@FuSheng_0306  傅盛✅   
+@AlchainHust  花叔✅  
+@dotey  宝玉✅  
+
+@qinbafrank  qinbafrank✅  
+@LinQingV  Macro_Lin市场观察员✅  
+@rickawsb  rick awsb✅  
