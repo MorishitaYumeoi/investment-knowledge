@@ -17,5 +17,5 @@
 
 2 李录：投资，是一种可以只靠脑子、不靠关系、不靠出身，就能生存下去的方式；  
 
-### Figure 机器人
-https://weixin.qq.com/sph/AoVWDUF7IA
+### 科普链接  
+Figure 机器人：https://weixin.qq.com/sph/AoVWDUF7IA  
