@@ -8,13 +8,13 @@
 1-3 光模块(CPO预期)：$COHR $LITE  *******  
 1-4 核聚变：$OKLO $SMR   
 1-5 医疗：$Isomorphic(谷歌)  
-1-6 脑机接口：$NeuralLink 
+1-6 脑机接口：$NeuraLink 
 
 ### 2 火箭：$SpaceX $BlueOrigin $RKLB  
 
 ### 3 量子计算：$QTUM(量子ETF) $IonQ  $RGTI 国盾量子  
 
-### 4 加密：$Circle $Coinbase  
+### 4 加密：$Circle $Coinbase $Polymarket $Klashi $Base   
 
 ## 推特美股博主  
 @VoxVex000
