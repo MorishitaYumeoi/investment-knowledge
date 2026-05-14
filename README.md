@@ -1,7 +1,7 @@
 ## Investment-Base
 记录投资知识，包括南师笔记、JonyVei笔记、加密货币、期权学习。
 
-## 关注美股(未上市+已上市(Alpha机会))
+## 一、关注美股(未上市+已上市(Alpha机会))
 ### 1 AI 人工智能  
 1-1 大模型：$Anthropic $OpenAI $Google $DeepSeek  
 1-2 芯片：$Cerebras $COPX(铜)  
@@ -16,7 +16,7 @@
 
 ### 4 加密：$Circle $Coinbase $Polymarket $Klashi $Base   
 
-## 推特美股博主  
+## 二、推特博主  
 @SpaceX  
 @AnthropicAI @Claudeai @DarioAmodei  
 @OpenAI  
