@@ -21,6 +21,6 @@
 ## 学习资料  
 1 许哲期权基础  
 https://www.bilibili.com/video/BV1KGFnexEM5/?spm_id_from=333.337.search-card.all.click&vd_source=d6d96e7e194a0fcacedffd78ab56b819  
-2 名师：Sober 栗坤  
-
+2 博主：Sober 栗坤  
+@Amy6Tina Sober聊期权✅  
 3 Sober 24集视频：https://sober-club.com/practical-videos  
