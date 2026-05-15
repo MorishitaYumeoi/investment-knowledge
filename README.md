@@ -26,6 +26,7 @@
 @tradexyz 合规pre-perps市场✅  
 @ventuals 三只pre-perps市场✅  
 
+@Amy6Tina Sober聊期权✅  
 @zhang_benita  张小珺✅  
 @Valley101_Qian  硅谷101陈茜✅  
 
