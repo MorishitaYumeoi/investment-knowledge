@@ -19,5 +19,14 @@
 
 ### 科普链接  
 Figure 机器人：https://weixin.qq.com/sph/AoVWDUF7IA  
+Figure 03 直播分拣快递爆火出圈背后的技术含量：https://weixin.qq.com/sph/A1JxSQMPpR  
+
 AlphaFold 破解生命密码：https://weixin.qq.com/sph/ArT3sdQfuf  
+十年AI制药，却无一款新药上市：https://weixin.qq.com/sph/AVXcn8jkQc  
+
+CPU 是如何发明的：https://weixin.qq.com/sph/ArmptzM4v9  
+为什么AI需要GPU：https://weixin.qq.com/sph/AQN5dW0uWP  
+
+索罗斯：我们都活在一个自己以为看懂了、但其实没看懂的世界里（一）：https://mp.weixin.qq.com/s/4FMJ67WxiRWpY8ok7mc2Tg  
+索罗斯：我们都活在一个自己以为看懂了、但其实没看懂的世界里（二）：https://mp.weixin.qq.com/s/F8ltMksWAz9AwJdiV01rYw  
 
