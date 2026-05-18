@@ -24,7 +24,8 @@ https://www.bilibili.com/video/BV1KGFnexEM5/?spm_id_from=333.337.search-card.all
 2 博主：Sober 栗坤  
 @Amy6Tina Sober聊期权✅  
 3 Sober 24集视频：https://sober-club.com/practical-videos  
-4 JonyVei推荐书籍：  
+4 从零开始学期权-期权初级(厦门大学): https://www.bilibili.com/video/BV13J411m7JL?spm_id_from=333.788.videopod.episodes&vd_source=d6d96e7e194a0fcacedffd78ab56b819  
+5 JonyVei推荐书籍：  
 还有本，塔勒布：动态对冲。这个波动率，值得反复看。  
 <img width="1280" height="1707" alt="c6daee080509a0e51a3b4ea6660e7ebe" src="https://github.com/user-attachments/assets/6cc9703b-272e-4ee0-a075-2380b06b753b" />
 <img width="1280" height="1707" alt="fef187234a27df2d065967de8fcaac70" src="https://github.com/user-attachments/assets/144c9c94-0a7a-4435-9506-d6d34b079d98" />
