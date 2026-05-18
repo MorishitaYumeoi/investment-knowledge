@@ -29,7 +29,7 @@ Figure 机器人：https://weixin.qq.com/sph/AoVWDUF7IA
 Figure 03 直播分拣快递爆火出圈背后的技术含量：https://weixin.qq.com/sph/A1JxSQMPpR  
 
 AI制药合集(1): https://weixin.qq.com/sph/AKQ9EGsKjc  
-～～～～～～～
+～～～～～～～  
 AI制药合集（41）：https://weixin.qq.com/sph/AHcrS5qnqr  
 AlphaFold 破解生命密码：https://weixin.qq.com/sph/ArT3sdQfuf  
 十年AI制药，却无一款新药上市：https://weixin.qq.com/sph/AVXcn8jkQc  
