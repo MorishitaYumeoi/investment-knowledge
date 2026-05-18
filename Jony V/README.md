@@ -19,5 +19,5 @@
 
 ### 科普链接  
 Figure 机器人：https://weixin.qq.com/sph/AoVWDUF7IA  
-AlphaFolde 破解生命密码：https://weixin.qq.com/sph/ArT3sdQfuf  
+AlphaFold 破解生命密码：https://weixin.qq.com/sph/ArT3sdQfuf  
 
