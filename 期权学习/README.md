@@ -21,11 +21,29 @@
 ## 学习资料  
 1 许哲期权基础  
 https://www.bilibili.com/video/BV1KGFnexEM5/?spm_id_from=333.337.search-card.all.click&vd_source=d6d96e7e194a0fcacedffd78ab56b819  
+
 2 博主：Sober 栗坤  
 @Amy6Tina Sober聊期权✅  
+
 3 Sober 24集视频：https://sober-club.com/practical-videos  
+
 4 从零开始学期权-期权初级(厦门大学): https://www.bilibili.com/video/BV13J411m7JL?spm_id_from=333.788.videopod.episodes&vd_source=d6d96e7e194a0fcacedffd78ab56b819  
-5 JonyVei推荐书籍：  
+
+5 南师推荐期权期货类： 
+《3小时快学期权》（上海证券交易所产品创新中心）
+《期权交易策略十讲》（上海证券交易所产品创新中心）
+《2周攻克期权策略》（上海证券交易所产品创新中心）
+《麦克米伦谈期权》
+《期权期货及其他衍生产品》（约翰.赫尔）
+《期货期权入门》（约翰.C.赫尔）
+《波动率交易：期权量化交易员指南》（尤安.辛克莱）
+《动态对冲：管理普通期权与奇异期权》（塔勒布）
+《期权波动率与定价：高级交易策略与技巧》（谢尔登.纳坦恩伯格）
+《期货交易策略》
+《期权投资策略》
+《幽灵的礼物：纵横华尔街的三个金融交易规则》  
+
+6 JonyVei推荐书籍：  
 还有本，塔勒布：动态对冲。这个波动率，值得反复看。  
 <img width="1280" height="1707" alt="c6daee080509a0e51a3b4ea6660e7ebe" src="https://github.com/user-attachments/assets/6cc9703b-272e-4ee0-a075-2380b06b753b" />
 <img width="1280" height="1707" alt="fef187234a27df2d065967de8fcaac70" src="https://github.com/user-attachments/assets/144c9c94-0a7a-4435-9506-d6d34b079d98" />
