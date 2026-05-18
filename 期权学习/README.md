@@ -24,3 +24,9 @@ https://www.bilibili.com/video/BV1KGFnexEM5/?spm_id_from=333.337.search-card.all
 2 博主：Sober 栗坤  
 @Amy6Tina Sober聊期权✅  
 3 Sober 24集视频：https://sober-club.com/practical-videos  
+4 JonyVei推荐书籍：  
+<img width="1280" height="1707" alt="c6daee080509a0e51a3b4ea6660e7ebe" src="https://github.com/user-attachments/assets/6cc9703b-272e-4ee0-a075-2380b06b753b" />
+
+
+
+
