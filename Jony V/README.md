@@ -37,6 +37,7 @@ AlphaFold 破解生命密码：https://weixin.qq.com/sph/ArT3sdQfuf
 CPU 是如何发明的：https://weixin.qq.com/sph/ArmptzM4v9  
 为什么AI需要GPU：https://weixin.qq.com/sph/AQN5dW0uWP  
 
+“AI弃子”CPU逆风翻盘：英特尔、AMD与Arm意料之外的一场胜利: https://mp.weixin.qq.com/s/IzMDT2AzGS3hNHg58IbMKw  
 24人打造的6nm AI芯片火了！比B200快48倍，30块能跑DeepSeek满血版: https://mp.weixin.qq.com/s/BkCU4xhwBv1GmfxOAIa1xw  
 Groq 与 Taalas 技术深度对比：https://mp.weixin.qq.com/s/JjK-_QGsikF7G7zJp9u_Eg  
 
