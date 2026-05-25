@@ -85,7 +85,7 @@ https://www.bilibili.com/video/BV1KGFnexEM5/?spm_id_from=333.337.search-card.all
 <img width="1280" height="1707" alt="fef187234a27df2d065967de8fcaac70" src="https://github.com/user-attachments/assets/144c9c94-0a7a-4435-9506-d6d34b079d98" />
 <img width="1280" height="1707" alt="ee681f0c1da5632c7e4730a88f951d2d" src="https://github.com/user-attachments/assets/1f095d46-1249-4791-9e4d-a6fca700e315" />  
 
-## 文章链接  
+## 阅读文章链接  
 
 1 如何用期权思维，现货思维，合约思维看待人生：https://mp.weixin.qq.com/s/hWp5F1XYGHH2u-jjU4yfrw  
 
