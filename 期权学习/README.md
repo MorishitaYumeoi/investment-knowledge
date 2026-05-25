@@ -28,6 +28,7 @@ https://www.bilibili.com/video/BV1KGFnexEM5/?spm_id_from=333.337.search-card.all
 3 Sober 24集视频：https://sober-club.com/practical-videos  
 
 4 从零开始学期权-期权初级(厦门大学): https://www.bilibili.com/video/BV13J411m7JL?spm_id_from=333.788.videopod.episodes&vd_source=d6d96e7e194a0fcacedffd78ab56b819  
+
 5 公开课】 厦门大学《金融工程》（全61讲）郑振龙: https://www.bilibili.com/video/BV1nDD3YKExn/?spm_id_from=333.337.search-card.all.click&vd_source=d6d96e7e194a0fcacedffd78ab56b819  
 
 6 南师推荐期权期货类：   
