@@ -28,6 +28,10 @@ https://www.bilibili.com/video/BV1KGFnexEM5/?spm_id_from=333.337.search-card.all
 3 Sober 24集视频：https://sober-club.com/practical-videos  
 
 4 从零开始学期权-期权初级(厦门大学): https://www.bilibili.com/video/BV13J411m7JL?spm_id_from=333.788.videopod.episodes&vd_source=d6d96e7e194a0fcacedffd78ab56b819  
+ 
+  期权进阶(一)：波动率和希腊字母(共12集)---陈蓉教授-最简单易懂的期权教学：https://www.bilibili.com/video/BV1hJ411G7y3/?spm_id_from=333.1387.search.video_card.click&vd_source=d6d96e7e194a0fcacedffd78ab56b819  
+
+  期权进阶(二)：期权策略(共21集)---陈蓉教授-最简单易懂的期权教学：https://www.bilibili.com/video/BV1bE41147j2?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2589621-kz84p.1779699851432.987&vd_source=d6d96e7e194a0fcacedffd78ab56b819  
 
 5 公开课】 厦门大学《金融工程》（全61讲）郑振龙: https://www.bilibili.com/video/BV1nDD3YKExn/?spm_id_from=333.337.search-card.all.click&vd_source=d6d96e7e194a0fcacedffd78ab56b819  
 
