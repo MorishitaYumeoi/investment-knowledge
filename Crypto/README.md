@@ -25,3 +25,4 @@
 <img width="1080" height="608" alt="IMG_1223" src="https://github.com/user-attachments/assets/3be4ffb2-1b8f-463c-a7d8-a8c9beb3ce53" />  
 
 ### 3-2 以太坊PBS中传播方差的代价: https://mp.weixin.qq.com/s/e3IotDPuFGJxxrF4awyLDw  
+### 3-3 监管清晰不等于货币溢价：CLARITY 利好 ETH，但不等于 ETH 可以按黄金估值: https://secondary.hashglobal.io/article-20260524.html  
