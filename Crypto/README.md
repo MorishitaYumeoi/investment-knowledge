@@ -24,3 +24,4 @@
 &emsp;&emsp;这就是以太坊能够以大幅扩容为目标而不增加去中心化压力的主要原因。具体的截止时间仍可能变化，但方向明确：以太坊开始将 12 秒 Slot 的更多部分用于有效的扩容工作。  
 <img width="1080" height="608" alt="IMG_1223" src="https://github.com/user-attachments/assets/3be4ffb2-1b8f-463c-a7d8-a8c9beb3ce53" />  
 
+### 3-2 以太坊PBS中传播方差的代价: https://mp.weixin.qq.com/s/e3IotDPuFGJxxrF4awyLDw  
