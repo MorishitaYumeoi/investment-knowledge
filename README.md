@@ -16,7 +16,10 @@
 
 ### 4 加密：$Circle $Coinbase $Polymarket $Klashi $Base   
 
-## 二、推特博主  
+## 二、巴菲特、段永平持仓  
+
+
+## 三、推特博主  
 @SpaceX  
 @AnthropicAI @Claudeai @DarioAmodei  
 @OpenAI  
